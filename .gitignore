@@ -1,0 +1,7 @@
+pic/
+bin/
+include/
+lib/
+__pycache__
+pyvenv.cfg
+*.log

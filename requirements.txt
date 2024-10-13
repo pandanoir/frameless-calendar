@@ -1,0 +1,6 @@
+pillow==10.4.0
+requests==2.32.3
+waveshare-epaper==1.3.0
+gpiozero==2.0.1
+lgpio==0.2.2.0
+
